@@ -26,3 +26,12 @@ Finish working on the first draft of the design document, while writing I notice
 
 ### Week 8 07/22
 I am working on the database, finishing the basic CRUD operations of the different tables needed for the database, I also created the database and make a connection with it. I still need look onto how I will have an instance on the cloud running the database and the backend (maybe AWS?).
+
+### Week 9 07/29
+Worked on setting all CRUD operations with authentication, no all calls are restricted with a JW Token. Started working on putting up in Heroku the backend plus the database, although I've been trying to create a pipeline so that anytime there is a push the pipeline runs and updates the service. I am still missing authorization per role and a way to save files.
+
+### Week 10 08/05
+Rest
+
+### Week 11 08/12
+Rest
